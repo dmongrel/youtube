@@ -4,7 +4,7 @@ Sources for the claims in the video, in chapter order. Times match the published
 
 Where the video uses an estimate or our own comparison, it says "reportedly", "around" or "estimated", and the notes below explain why.
 
-## 0:27 Intro
+## 0:32 Intro
 
 - **Carriers:** the US Navy has 11 aircraft carriers in 2026, ten Nimitz-class plus USS Gerald R. Ford. Nimitz's retirement has been pushed back to March 2027, so the count may change after that.
 - **Military aircraft:** the US has about 13,000 military aircraft (FlightGlobal, World Air Forces 2026).
@@ -16,7 +16,7 @@ Where the video uses an estimate or our own comparison, it says "reportedly", "a
 - <https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge>
 - <https://www.pgpf.org/article/the-united-states-spends-more-on-defense-than-the-next-6-countries-combined/>
 
-## 1:01 The Eye
+## 1:06 The Eye
 
 - **The community:** ODNI says the US intelligence community "is made up of 18 organizations". The 18 agency names on screen are its list.
 - **Budget:** in FY2025 the National Intelligence Program got $73.3bn (ODNI, 31 Oct 2025) and the Military Intelligence Program $27.8bn (DoD, 3 Nov 2025), a total of $101.1bn.
@@ -27,7 +27,7 @@ Where the video uses an estimate or our own comparison, it says "reportedly", "a
 - <https://www.globalsecurity.org/intell/library/news/2025/intell-251103-dod01.htm>
 - <https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge>
 
-## 1:41 Eyes In Orbit
+## 1:46 Eyes In Orbit
 
 - **CORONA:** it began in the late 1950s as a joint CIA–Air Force programme.
   - The first success was Discoverer XIV on 18 August 1960. A USAF C-119J caught its film capsule in mid-air at 8,000 ft the next day.
@@ -47,7 +47,7 @@ Where the video uses an estimate or our own comparison, it says "reportedly", "a
 - <https://www.capradio.org/news/npr/story?storyid=755994591>
 - <https://science.nasa.gov/mission/roman-space-telescope/telescope/>
 
-## 2:34 Drones Overhead
+## 2:39 Drones Overhead
 
 - **MQ-9 Reaper:** endurance is 27 hours, or 34 with extended range. That is total flight time, not time spent over one target.
 - **ARGUS-IS:** a 1.8-gigapixel camera built from 368 phone-camera sensors.
@@ -63,7 +63,7 @@ Where the video uses an estimate or our own comparison, it says "reportedly", "a
 - <https://slate.com/technology/2013/02/argus-is-could-the-pentagon-s-1-8-gigapixel-drone-camera-be-used-for-domestic-surveillance.html>
 - <https://www.flightglobal.com/fixed-wing/2014/07/sierra-nevada-fields-argus-is-upgrade-to-gorgon-stare-pod/>
 
-## 3:18 Listening
+## 3:23 Listening
 
 - **Palantir:** the company is named after the seeing-stones in The Lord of the Rings (NPR, 1 May 2025).
   - Its government customers include DoD, ICE, the Navy and the US Army, whose 2025 contract is worth up to $10bn.
@@ -76,7 +76,7 @@ Where the video uses an estimate or our own comparison, it says "reportedly", "a
 - <https://www.nbcnews.com/feature/edward-snowden-interview/edward-snowden-timeline-n114871>
 - <https://www.publicsafety.gc.ca/cnt/ntnl-scrt/fv-cntry-mnstrl-en.aspx>
 
-## 4:06 Crypto AG
+## 4:11 Crypto AG
 
 These points come from the Washington Post / ZDF investigation of February 2020 ("Operation Rubicon").
 
@@ -92,7 +92,7 @@ These points come from the Washington Post / ZDF investigation of February 2020 
 - <https://archive-yaleglobal.yale.edu/content/us-intelligence-coup-washington-post>
 - <https://www.dailysabah.com/world/2020/02/12/coup-of-the-century-how-us-german-spies-looted-global-secrets-via-swiss-crypto-ag>
 
-## 4:47 Cables
+## 4:52 Cables
 
 - **Operation Ivy Bells** ran from 1971 to 1981.
   - The tapped cable lay nearly 400 ft down, inside Soviet territorial waters.
@@ -108,7 +108,7 @@ These points come from the Washington Post / ZDF investigation of February 2020 
 - <https://www.stripes.com/theaters/us/2022-09-17/ronald-pelton-spy-convicted-obit-7364507.html>
 - <https://www.scmp.com/news/world/article/1883177/convicted-spy-ronald-pelton-freed-after-30-years-us-custody>
 
-## 5:28 Steal
+## 5:33 Steal
 
 **U-505.**
 - **The capture:** depth charges from USS Chatelain forced U-505 to the surface on 4 June 1944, about 150 miles off Rio de Oro.
@@ -177,7 +177,7 @@ These points come from the Washington Post / ZDF investigation of February 2020 
 
 "S.T.E.A.L." isn't an official term; it's a joke.
 
-## 6:51 Human Spies
+## 6:56 Human Spies
 
 **The hunt.**
 - **The courier:** detainees identified Abu Ahmed al-Kuwaiti as bin Laden's courier between 2002 and 2004. He was picked up on a wiretap in 2010 and followed to Abbottabad in August 2010.
@@ -214,7 +214,7 @@ These points come from the Washington Post / ZDF investigation of February 2020 
 - <https://www.gpb.org/news/2021/08/04/osama-bin-laden-biography-goes-inside-al-qaida-leaders-final-hideout>
 - <https://www.history.com/articles/osama-bin-laden-abbottabad-compound-death>
 
-## 7:56 Finding Out
+## 8:01 Finding Out
 
 **The capture.**
 - **When and where:** Saddam Hussein was captured at about 8 pm on 13 December 2003, at a farm near ad-Dawr (Operation Red Dawn).
@@ -247,7 +247,7 @@ These points come from the Washington Post / ZDF investigation of February 2020 
 - <https://www.nbcnews.com/id/wbna3708711>
 - <https://www.upi.com/Archives/2003/12/15/Saddam-Hussein-Willing-to-negotiate/3311071464400/>
 
-## 8:55 Pattern Of Life
+## 9:00 Pattern Of Life
 
 From the White House background call of 1 August 2022.
 - **Pattern of life:** "We were able to build a pattern of life through multiple, independent sources."
@@ -260,7 +260,7 @@ From the White House background call of 1 August 2022.
 - <https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2022/08/01/background-press-call-by-a-senior-administration-official-on-a-u-s-counterterrorism-operation>
 - <https://www.cbsnews.com/news/cia-model-al-zawahiris-hideout-used-before-al-qaeda-leader-killed-drone-strike/>
 
-## 9:30 Penthouse
+## 9:35 Penthouse
 
 **The house.**
 - **The White House call (1 August 2022):**
@@ -290,7 +290,7 @@ From the White House background call of 1 August 2022.
 - <https://en.wikipedia.org/wiki/Abu_Khayr_al-Masri>
 - <https://taskandpurpose.com/news/hellfire-r9x-drone-strike-al-zawahiri/>
 
-## 10:25 Underground
+## 10:30 Underground
 
 - **Fordow:** the site is about 80–90 m under a mountain, roughly 27–30 stories at about 3 m a storey.
 - **The bomb:** the GBU-57 Massive Ordnance Penetrator weighs about 30,000 lb. The B-2 is the only aircraft in service that carries it.
@@ -310,7 +310,7 @@ From the White House background call of 1 August 2022.
 - <https://www.airandspaceforces.com/article/world-operation-midnight-hammer/>
 - <https://www.airandspaceforces.com/weapons/gbu-57-mop/>
 
-## 11:16 Cyber
+## 11:21 Cyber
 
 - **Natanz:** the halls are about 8 m below ground under concrete and earth, and the network had no internet connection.
 - **How Stuxnet got in:**
@@ -330,7 +330,7 @@ From the White House background call of 1 August 2022.
 - <https://en.wikipedia.org/wiki/Natanz_Nuclear_Facility>
 - <https://en.wikipedia.org/wiki/Ocean%27s_Eleven>
 
-## 12:08 Deep Sea
+## 12:13 Deep Sea
 
 - **K-129:** a Soviet diesel submarine carrying three SS-N-4 nuclear ballistic missiles. It sank in March 1968.
 - **Finding it:** "After the Soviets abandoned their extensive search efforts, the US located the submarine" (CIA Museum). It lay 16,500 ft down, "more than three miles".
